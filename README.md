@@ -1,4 +1,4 @@
 # Derivations
 Math derivations
 
-The note about the Lambertian should be in the 3d section.
+Please open an issue if you see mistakes, typos, or if you have questions.
